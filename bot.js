@@ -824,4 +824,4 @@ message.channel.stopTyping()
 })
 }
 });
-client.login("NTM2NTQxMTM5MzM1OTA1MzAw.Dyd0lA.dIaQGAZosLSZdt7Y14sIHlkayuw");
+client.login("process.env.BOT_TOKEN");
